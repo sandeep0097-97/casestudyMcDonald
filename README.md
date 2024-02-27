@@ -32,7 +32,7 @@ VisitFrequency: Frequency of visiting food establishments (e.g., "Every three mo
 
 Gender: Gender of the person
 
-Data Preview
+### Data Preview
 
 yummy	convenient	spicy	fattening	greasy	fast	cheap	tasty	expensive	healthy	disgusting	Like	Age	VisitFrequency	Gender
 
